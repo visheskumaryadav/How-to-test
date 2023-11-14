@@ -14,3 +14,5 @@
 14. If input is for email then verify that email keypad should appear in mobile app. (email keypad: @ symbol should appear in keypad by default)
 15. Verify that validation should appear correct.
 16. Verify that in keypad either "NEXT" button or "DONE" should appear for input Text field.
+17. Verify that user should able to add/erase the input text easily.
+18. Verify that user should able to enter space between the words without any problem.
