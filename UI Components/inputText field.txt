@@ -1,0 +1,16 @@
+1. Verify that placeholder text is correct.
+2. Verify that input pointer should appear when user click on the input field.
+3. Verify that input text is proper(Text size/font/Text color) when user type input.
+4. Verify that input field doesn't take empty input.
+5. Verify that input text is not getting truncated if user enters UPPERCASE and LOWERCASE text.
+6. Verify that alignment of input text in input field should be in center from top and  bottom.
+7. Verify that if input is a long string then user should able to scroll the text horizontally.
+8. Verify that user is able to select the whole input text.
+9. Verify that color should be proper when user select input text.
+10. Verify that user is able to copy and paste the input text.
+11. If there is some min/max characters limit for input then verify it.
+12. If input is numeric then verify that user should only able to enter numeric data.
+13. If input is numeric then verify that numeric keypad should appear in mobile app.
+14. If input is for email then verify that email keypad should appear in mobile app. (email keypad: @ symbol should appear in keypad by default)
+15. Verify that validation should appear correct.
+16. Verify that in keypad either "NEXT" button or "DONE" should appear for input Text field.
